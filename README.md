@@ -12,6 +12,8 @@
 .IntelliJ IDEA Community Edition or Eclipse (recommended)
 
 # How to Run:
+
 javac ToDoApp.java
 java ToDoApp
+
 
